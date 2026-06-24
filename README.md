@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +74,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshat-625/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshat-625/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+## Number Theory
+|  |
+| ------- |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->

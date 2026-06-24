@@ -85,4 +85,8 @@
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/akshat-625/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->

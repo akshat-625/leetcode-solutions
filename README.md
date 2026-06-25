@@ -68,6 +68,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshat-625/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/akshat-625/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshat-625/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -89,4 +90,5 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/akshat-625/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/akshat-625/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

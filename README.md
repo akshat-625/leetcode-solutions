@@ -30,6 +30,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/akshat-625/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshat-625/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshat-625/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/akshat-625/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshat-625/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/akshat-625/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshat-625/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshat-625/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |

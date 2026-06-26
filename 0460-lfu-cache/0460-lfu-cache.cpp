@@ -1,48 +1,106 @@
+class Node{
+    public:
+        int key,val,freq;
+        Node *next,*prev;
+
+        Node(int k,int v){
+            key=k;
+            val=v;
+            freq=1;
+            next=prev=NULL;
+        }
+};
+
+class List{
+    public:
+        int size;
+        Node *head,*tail;
+
+        List(){
+            size=0;
+            head=new Node(0,0);
+            tail=new Node(0,0);
+            head->next=tail;
+            tail->prev=head;
+        }
+
+        void addFront(Node* node){
+            Node* temp=head->next;
+            head->next=node;
+            node->prev=head;
+            temp->prev=node;
+            node->next=temp;
+
+            size++;
+        }
+
+        void remvoveNode(Node* node){
+            Node* delprev=node->prev;
+            Node* delnext=node->next;
+            delprev->next=delnext;
+            delnext->prev=delprev;
+            size--;
+        }
+
+};
+
+
 class LFUCache {
-    int i=0, cap=0;
-    unordered_map<int, vector<int>> m2;
-    map<pair<int, int>, int> m1;
 public:
+    int capacity;
+    int cursize;
+    int minFreq;
+    unordered_map<int,Node*> keyNode;
+    unordered_map<int,List*>freqList;
+
     LFUCache(int capacity) {
-        cap=capacity;
+        this->capacity=capacity;
+        cursize=0;
+        minFreq=0;
+    }
+
+    void update(Node* node){
+        keyNode.erase(node->key);
+        freqList[node->freq]->remvoveNode(node);
+        if(node->freq==minFreq && freqList[node->freq]->size==0) minFreq++;
+
+        node->freq++;
+        if(freqList.find(node->freq)==freqList.end()) freqList[node->freq]=new List();
+
+        freqList[node->freq]->addFront(node);
+        keyNode[node->key]=node;
+
     }
     
     int get(int key) {
-        if (m2.find(key)==m2.end()) return -1;
-        int val=m2[key][0];
-        m2[key][1]++;
-        m2[key][2]=i;
-        i++;
-        return val;
+        if(keyNode.find(key)==keyNode.end()) return -1;
+        Node* node=keyNode[key];
+        update(node);
+        return node->val;
     }
     
     void put(int key, int value) {
-        if (m2.find(key)==m2.end() && m1.size()==cap){
-            while(true){
-                auto x=*m1.begin();
-                int f1=x.first.first, i1=x.first.second, k=x.second;
-                int f2=m2[k][1], i2=m2[k][2];
-                if ((f1!=f2)||(i1!=i2)){
-                    m1.erase(m1.begin());
-                    m1[{f2, i2}]=k;
-                }
-                else{
-                    int k=(*m1.begin()).second;
-                    m2.erase(k);
-                    m1.erase(m1.begin());
-                    break;
-                }
-            }
+        if(capacity==0) return ;
+        if(keyNode.find(key)!=keyNode.end()){
+            Node* node=keyNode[key];
+            node->val=value;
+            update(node);
+            return;
         }
-        if (m2.find(key)!=m2.end()){
-            m2[key]={value, m2[key][1]+1, i};
-            i++;
+        if(cursize==capacity){
+            List* list=freqList[minFreq];
+            Node* node=list->tail->prev;
+            keyNode.erase(node->key);
+            list->remvoveNode(node);
+            cursize--;
         }
-        else{
-            m2[key]={value, 1, i};
-            m1[{1, i}]=key;
-            i++;
-        }
+        cursize++;
+        minFreq=1;
+        Node* node=new Node(key,value);
+        if(freqList.find(1)==freqList.end())freqList[1]=new List();
+
+        freqList[1]->addFront(node);
+        keyNode[key]=node;
     }
 };
 

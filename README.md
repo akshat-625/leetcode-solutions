@@ -35,6 +35,7 @@
 | [0225-implement-stack-using-queues](https://github.com/akshat-625/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshat-625/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/akshat-625/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -110,5 +112,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshat-625/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->

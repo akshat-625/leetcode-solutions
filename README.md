@@ -31,6 +31,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/akshat-625/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshat-625/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshat-625/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -103,6 +104,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -112,10 +114,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshat-625/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->

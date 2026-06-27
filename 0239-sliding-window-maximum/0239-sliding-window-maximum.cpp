@@ -1,26 +1,28 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        vector<int> res;
-        deque<int> deque;
+        int n = nums.size();
+        vector<int> output(n - k + 1);
+        deque<int> q;
+        int l = 0, r = 0;
 
-        for (int idx = 0; idx < nums.size(); idx++) {
-            int num = nums[idx];
-
-            while (!deque.empty() && deque.back() < num) {
-                deque.pop_back();
+        while (r < n) {
+            while (!q.empty() && nums[q.back()] < nums[r]) {
+                q.pop_back();
             }
-            deque.push_back(num);
+            q.push_back(r);
 
-            if (idx >= k && nums[idx - k] == deque.front()) {
-                deque.pop_front();
+            if (l > q.front()) {
+                q.pop_front();
             }
 
-            if (idx >= k - 1) {
-                res.push_back(deque.front());
+            if ((r + 1) >= k) {
+                output[l] = nums[q.front()];
+                l++;
             }
+            r++;
         }
 
-        return res;        
+        return output;
     }
 };

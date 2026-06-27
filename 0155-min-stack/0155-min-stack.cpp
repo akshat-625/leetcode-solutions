@@ -1,38 +1,24 @@
-class MinStack {
-    stack<int> st;
-        stack<int> s;
-public:
-    MinStack() {
-       
-    }
-    
-    void push(int val) {
-        st.push(val);
-        if(s.empty() || s.top()>=val)
-          s.push(val);
-    }
-    
-    void pop() {
-        if(st.top()==s.top())
-          s.pop();
-        st.pop();
+	class MinStack {
+	public:
+		stack<int>s;
+		multiset<int>m;   
 
-    }
-    
-    int top() {
-        return st.top();
-    }
-    
-    int getMin() {
-        return s.top();
-    }
-};
+		void push(int val) {//insert elements on both set and stack
+			s.push(val); 
+			m.insert(val);
+		}
 
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(val);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
+		void pop() {//poping elements on both set and stack
+			int top = s.top();
+			s.pop();
+			m.erase(m.find(top)); 
+		}
+
+		int top() { //return stack top
+			return s.top();
+		}
+
+		int getMin() {// return set first element 
+			return *m.begin();
+		}
+	};

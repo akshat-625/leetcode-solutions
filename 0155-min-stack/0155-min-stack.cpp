@@ -1,24 +1,27 @@
-	class MinStack {
-	public:
-		stack<int>s;
-		multiset<int>m;   
+class MinStack {
+     stack<pair<int, int>> st;
 
-		void push(int val) {//insert elements on both set and stack
-			s.push(val); 
-			m.insert(val);
-		}
+public:
+    void push(int x) {
+        int min;
+        if (st.empty()) {
+            min = x;
+        }
+        else {
+            min = std::min(st.top().second,x);
+        }
+        st.push({x, min});
+    }
 
-		void pop() {//poping elements on both set and stack
-			int top = s.top();
-			s.pop();
-			m.erase(m.find(top)); 
-		}
+    void pop() {
+        st.pop();
+    }
 
-		int top() { //return stack top
-			return s.top();
-		}
+    int top() {
+        return st.top().first;
+    }
 
-		int getMin() {// return set first element 
-			return *m.begin();
-		}
-	};
+    int getMin() {
+        return st.top().second;
+    }
+};

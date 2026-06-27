@@ -12,6 +12,7 @@
 | [0239-sliding-window-maximum](https://github.com/akshat-625/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1250-check-if-it-is-a-good-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Binary Search
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akshat-625/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

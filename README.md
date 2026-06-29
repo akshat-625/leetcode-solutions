@@ -66,6 +66,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -82,6 +83,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
 |  |
@@ -155,5 +157,6 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

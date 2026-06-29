@@ -110,6 +110,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshat-625/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -123,11 +124,13 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/akshat-625/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/akshat-625/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |

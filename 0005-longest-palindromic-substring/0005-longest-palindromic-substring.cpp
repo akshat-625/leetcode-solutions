@@ -1,17 +1,29 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        if (s == string(s.rbegin(), s.rend())) {
-            return s;
-        }
+        int n = s.size();
+        if (n <= 1) return s;
 
-        string left = longestPalindrome(s.substr(1));
-        string right = longestPalindrome(s.substr(0, s.size() - 1));
+        vector<vector<bool>> dp(n, vector<bool>(n, false));
+        int start = 0, maxLen = 1;
 
-        if (left.length() > right.length()) {
-            return left;
-        } else {
-            return right;
+        for (int i = 0; i < n; i++) dp[i][i] = true;
+
+        for (int len = 2; len <= n; len++) {
+            for (int i = 0; i <= n - len; i++) {
+                int j = i + len - 1; // End index
+
+                if (s[i] == s[j]) {
+                    if (len == 2 || dp[i + 1][j - 1]) {
+                        dp[i][j] = true;
+                        if (len > maxLen) {
+                            start = i;
+                            maxLen = len;
+                        }
+                    }
+                }
+            }
         }
+        return s.substr(start, maxLen);
     }
 };

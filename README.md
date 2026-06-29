@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/akshat-625/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshat-625/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
@@ -121,6 +122,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/akshat-625/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/akshat-625/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |

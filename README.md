@@ -134,6 +134,7 @@
 | [0049-group-anagrams](https://github.com/akshat-625/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/akshat-625/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0146-lru-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akshat-625/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
 |  |
 | ------- |

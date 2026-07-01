@@ -140,6 +140,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/akshat-625/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/akshat-625/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Union-Find
 |  |
 | ------- |

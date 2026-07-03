@@ -77,6 +77,7 @@
 | [0098-validate-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -87,6 +88,7 @@
 | [0098-validate-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
@@ -102,6 +104,7 @@
 | [0098-validate-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -112,6 +115,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/akshat-625/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshat-625/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/akshat-625/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshat-625/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |

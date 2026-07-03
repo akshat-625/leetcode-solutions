@@ -1,6 +1,5 @@
-# Leetcode-Solutions
+# Leetcode Solutions Topicwise :
 <!---LeetCode Topics Start-->
-# LeetCode Topics
 ## Array
 |  |
 | ------- |

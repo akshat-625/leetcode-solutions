@@ -11,22 +11,27 @@
  */
 class Solution {
 public:
-    void preorder(TreeNode* root, vector<int>& res) {
-        if (root==nullptr){
-            return;
-        }
-        res.push_back(root->val);
-        preorder(root->left,res);
-        preorder(root->right,res);
-        
-    }
-
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int>res;
-        preorder(root,res);
-        return res;
-        
-
-        
+        //root -> left -> right
+        vector<int> preorder;
+        TreeNode*curr = root;
+        while(curr){
+            preorder.push_back(curr -> val);
+            if(curr -> left){
+                //connect right most to root
+                TreeNode*prev = curr->left;
+                while(prev -> right){
+                    prev = prev -> right;
+                }
+                TreeNode* temp = curr;
+                prev -> right = curr->right;
+                curr = curr -> left;
+                temp -> left = NULL;
+            }else{
+                // preorder.push_back(curr->val);
+                curr = curr -> right;
+            }
+        }
+        return preorder;
     }
 };

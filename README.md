@@ -55,6 +55,7 @@
 | [0049-group-anagrams](https://github.com/akshat-625/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/akshat-625/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,12 +95,14 @@
 | [0199-binary-tree-right-side-view](https://github.com/akshat-625/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akshat-625/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -112,6 +116,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +176,7 @@
 | [0202-happy-number](https://github.com/akshat-625/leetcode-solutions/tree/master/0202-happy-number) |
 | [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Stack
 |  |

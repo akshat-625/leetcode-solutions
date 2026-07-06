@@ -86,6 +86,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/akshat-625/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -103,6 +104,7 @@
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/akshat-625/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -131,6 +133,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/akshat-625/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |

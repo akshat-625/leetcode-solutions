@@ -11,17 +11,23 @@
  */
 class Solution {
 public:
-    TreeNode *Tree(vector<int>& in, int x, int y,vector<int>& po,int a,int b){
-        if(x > y || a > b)return nullptr;
-        TreeNode *node = new TreeNode(po[b]);
-        int SI = x;  
-        
-        while(node->val != in[SI])SI++;
-        node->left  = Tree(in,x,SI-1,po,a,a+SI-x-1);
-        node->right = Tree(in,SI+1,y,po,a+SI-x,b-1);
-        return node;
+    unordered_map<int,int>m;
+    
+    TreeNode* solve(vector<int>& in, vector<int>& post,int ins,int ine,int &posti){
+        if(ins>ine) return NULL;
+        int v=post[posti];
+        posti--;
+        TreeNode*root=new TreeNode(v);
+        root->right=solve(in,post,m[v]+1,ine,posti);
+        root->left=solve(in,post,ins,m[v]-1,posti);
+        return root;
+
     }
-    TreeNode* buildTree(vector<int>& in, vector<int>& po){
-        return Tree(in,0,in.size()-1,po,0,po.size()-1);
+    TreeNode* buildTree(vector<int>& in,vector<int>& post) {
+        for(int i=0;i<in.size();i++){
+            m[in[i]]=i;
+        }
+        int idx=post.size()-1; // or in.size()
+        return solve(in,post,0,in.size()-1,idx);
     }
 };

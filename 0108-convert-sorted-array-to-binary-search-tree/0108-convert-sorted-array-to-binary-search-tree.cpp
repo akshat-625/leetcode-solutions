@@ -11,16 +11,18 @@
  */
 class Solution {
 public:
-    TreeNode* sortedArrayToBST(vector<int>& nums) {
-        return build(nums, 0, nums.size());
-    }
+TreeNode* func(vector<int>& nums, int st,int end){
+    if(st>end){
+        return NULL;
 
-    TreeNode* build(vector<int>& nums, int start, int end) {
-        if (start == end) return nullptr;
-        int mid = (start + end) / 2;
-        TreeNode* root = new TreeNode(nums[mid]);
-        root->left = build(nums, start, mid);
-        root->right = build(nums, mid + 1, end);
-        return root;
+    }
+    int mid = st+(end-st)/2;
+    TreeNode* root = new TreeNode(nums[mid]);
+    root->left = func(nums, st, mid-1);
+    root->right = func(nums, mid+1, end);
+    return root;
+}
+    TreeNode* sortedArrayToBST(vector<int>& nums) {
+        return func(nums, 0, nums.size()-1);
     }
 };

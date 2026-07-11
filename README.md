@@ -19,6 +19,7 @@
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1250-check-if-it-is-a-good-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Binary Search
@@ -107,6 +108,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +193,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/akshat-625/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/akshat-625/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -246,6 +250,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/akshat-625/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/akshat-625/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/akshat-625/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -282,6 +287,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |

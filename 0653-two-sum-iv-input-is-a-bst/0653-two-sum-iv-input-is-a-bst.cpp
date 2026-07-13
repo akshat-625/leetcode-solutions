@@ -11,16 +11,26 @@
  */
 class Solution {
 public:
-    unordered_set<int>seen;
-    bool dfs(TreeNode* root,int k){
-        if(!root) return false;
-        if(seen.count(k-root->val)) return true;
-
-        seen.insert(root->val);
-
-        return dfs(root->left,k) || dfs(root->right,k);
+    vector<int> nums;
+    void inorder(TreeNode* root){
+        if(!root) return;
+        inorder(root->left);
+        nums.push_back(root->val);
+        inorder(root->right);
     }
+    
     bool findTarget(TreeNode* root, int k) {
-      return dfs(root,k);  
+    inorder(root);
+    int left=0,right=nums.size()-1;
+    while(left<right){
+        int sum=nums[left]+nums[right];
+        if(sum==k )
+        return true;
+        else if(sum<k)
+        left++;
+        else
+        right--;
+    }  
+    return false;  
     }
 };

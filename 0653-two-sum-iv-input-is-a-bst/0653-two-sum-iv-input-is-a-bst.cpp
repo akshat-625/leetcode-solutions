@@ -18,7 +18,7 @@ public:
         nums.push_back(root->val);
         inorder(root->right);
     }
-    
+
     bool findTarget(TreeNode* root, int k) {
     inorder(root);
     int left=0,right=nums.size()-1;
@@ -28,8 +28,7 @@ public:
         return true;
         else if(sum<k)
         left++;
-        else
-        right--;
+        else right--;
     }  
     return false;  
     }

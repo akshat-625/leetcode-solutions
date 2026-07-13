@@ -11,20 +11,41 @@
  */
 class Solution {
 public:
-    vector<int> find(TreeNode* root, int& ans){
-        if(!root) return {0, INT_MAX, INT_MIN, 0};
-        vector<int> left=find(root->left, ans);
-        vector<int> right=find(root->right, ans);
+    struct Info {
+        bool isBST;
+        int mn, mx;
+        int sum;
+    };
+    
+    int ans = 0;
 
-        if(left[0] || right[0] || left[2]>=root->val || right[1]<=root->val) return {1, INT_MAX, INT_MIN, 0};
-        int temp=left[3]+right[3]+root->val;
-        ans=max(ans,temp);
+    Info dfs(TreeNode* root) {
 
-        return {0,min(left[1],root->val),max(right[2],root->val),temp};
-    } 
+        if (!root)
+            return {true, INT_MAX, INT_MIN, 0};
+
+        Info left = dfs(root->left);
+        Info right = dfs(root->right);
+
+        if (left.isBST && right.isBST &&
+            left.mx < root->val &&
+            root->val < right.mn) {
+
+            int currSum = left.sum + right.sum + root->val;
+            ans = max(ans, currSum);
+
+            return {
+                true,
+                min(root->val, left.mn),
+                max(root->val, right.mx),
+                currSum
+            };
+        }
+        return {false, INT_MIN, INT_MAX, 0};
+    }
+
     int maxSumBST(TreeNode* root) {
-        int ans=0;
-        find(root,ans);
+        dfs(root);
         return ans;
     }
 };

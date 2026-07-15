@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int findKthLargest(std::vector<int>& nums, int k) {
-        priority_queue<int, std::vector<int>, std::greater<int>> min_heap(nums.begin(), nums.begin() + k);
+    int findKthLargest(vector<int>& nums, int k) {
+        priority_queue<int, vector<int>, greater<int>> min_heap(nums.begin(), nums.begin() + k);
         
         for (int i = k; i < nums.size(); i++) {
             if (nums[i] > min_heap.top()) {

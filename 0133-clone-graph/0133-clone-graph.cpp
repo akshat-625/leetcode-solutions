@@ -33,6 +33,6 @@ public:
         }
         return copies[node];
     }
-private:
+
     unordered_map<Node*, Node*> copies;
 };

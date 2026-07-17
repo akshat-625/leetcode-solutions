@@ -12,6 +12,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshat-625/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -271,6 +272,7 @@
 | [0049-group-anagrams](https://github.com/akshat-625/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/akshat-625/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/akshat-625/leetcode-solutions/tree/master/0202-happy-number) |
@@ -349,6 +351,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |

@@ -13,8 +13,8 @@ public:
         else if(nums[i]+1 == nums[i+1]) 
             count+=1;
         else {
-            maxi=max(maxi,count);
-            count =1;             //reset the counter if another mpre consecutive sequence is formed
+            maxi=max(maxi,count);   // saving previous counterwhere it was broken to compare whether next one is bigger or this one
+            count =1;              //reset the counter if another mpre consecutive sequence is formed
         }
        } 
        maxi = max(maxi, count);

@@ -25,7 +25,7 @@ for( int i=0; i<n; i++) {
     int need = target - nums[i];
 
 if( ans.count(need)){
-    return {ans[need],i};  // here key = need, value = i // because we need i in the answer; also ans[key] is the pinter 
+    return {ans[need],i};  // here key = need, value = i // because we need i in the answer; also ans[key] is the pointer 
 }
 
 ans[nums[i]] = i;  //just key pointing to its value because  i is asked in the question

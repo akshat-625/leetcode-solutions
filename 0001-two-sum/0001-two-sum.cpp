@@ -2,16 +2,18 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        // TC = O(N^2)
         int n = nums.size();
-        // unordered map<int,int>ans;
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (nums[i] + nums[j] == target)
-                    return {i, j};
-            }
-        }
-        return {};
+
+        // // TC = O(N^2)
+
+        // // unordered map<int,int>ans;
+        // for (int i = 0; i < n; i++) {
+        //     for (int j = i + 1; j < n; j++) {
+        //         if (nums[i] + nums[j] == target)
+        //             return {i, j};
+        //     }
+        // }
+        // return {};
 
 
 
@@ -19,7 +21,7 @@ public:
 
 unordered_map<int,int> ans;
 
-for( int i=0; i<n; i++){
+for( int i=0; i<n; i++) {
     int need = target - nums[i];
 
 if( ans.count(need)){

@@ -3,7 +3,17 @@ public:
 
 
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        // find cycle , if cycle is present that means not possible to complete all courses
+        // Let's use BFS first
+        // Kahn algorithm -> O(V + E) (BFS Traversal of all nodes and edges).
+        // Topological Sort
+        
+        // IMPORTANT
 
+        // if all some nodes are in cycle in directed graph so they will not processed because indegree of them will never be zero
+
+
+        // Count how many edges are pointing to each node.
         vector<int> inDegree(numCourses, 0);  // Stores in-degree of each node
         queue<int> q;                // Queue for processing nodes
 

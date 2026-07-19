@@ -152,6 +152,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/akshat-625/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/akshat-625/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -172,6 +173,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/akshat-625/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/akshat-625/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -355,6 +357,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/akshat-625/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Backtracking
 |  |
 | ------- |
@@ -368,6 +371,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/akshat-625/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/akshat-625/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/akshat-625/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |

@@ -1,4 +1,5 @@
 class Solution {
+public:
     
     vector<string> funct(int left, int right, string &s, vector<int> &first, vector<int> &last, vector<int> &freq){
         vector<string> ans;
@@ -24,7 +25,6 @@ class Solution {
         return ans;
     }
 
-public:
     vector<string> maxNumOfSubstrings(string s) {
         int n = s.length();;
         vector<int> freq(26, 0), first(26, n), last(26, -1);

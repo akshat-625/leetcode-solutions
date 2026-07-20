@@ -70,6 +70,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/akshat-625/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshat-625/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 | [0686-repeated-string-match](https://github.com/akshat-625/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshat-625/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshat-625/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Table
 |  |
@@ -285,6 +287,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshat-625/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshat-625/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -376,4 +379,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akshat-625/leetcode-solutions/tree/master/0207-course-schedule) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshat-625/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->

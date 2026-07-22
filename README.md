@@ -269,6 +269,7 @@
 | [0257-binary-tree-paths](https://github.com/akshat-625/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/akshat-625/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [1143-longest-common-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshat-625/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshat-625/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -348,6 +349,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/akshat-625/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshat-625/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie

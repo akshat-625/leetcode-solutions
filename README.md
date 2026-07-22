@@ -15,6 +15,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshat-625/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/akshat-625/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akshat-625/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -343,6 +344,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/akshat-625/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshat-625/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie

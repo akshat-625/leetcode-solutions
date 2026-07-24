@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/akshat-625/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/akshat-625/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshat-625/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -325,6 +326,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/akshat-625/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -347,6 +349,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/akshat-625/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/akshat-625/leetcode-solutions/tree/master/0152-maximum-product-subarray) |

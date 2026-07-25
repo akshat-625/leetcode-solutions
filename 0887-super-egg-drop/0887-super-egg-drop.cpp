@@ -1,6 +1,6 @@
 class Solution {
 public:
-   vector<std::vector<int>> memo;
+   vector<vector<int>> memo;
 
     int find(int k, int n) {
         if (n == 0 || n == 1) return n;

@@ -36,6 +36,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0887-super-egg-drop](https://github.com/akshat-625/leetcode-solutions/tree/master/0887-super-egg-drop) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [0013-roman-to-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshat-625/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/akshat-625/leetcode-solutions/tree/master/0202-happy-number) |
+| [0887-super-egg-drop](https://github.com/akshat-625/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [1250-check-if-it-is-a-good-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Number Theory
@@ -356,6 +358,7 @@
 | [0152-maximum-product-subarray](https://github.com/akshat-625/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/akshat-625/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0887-super-egg-drop](https://github.com/akshat-625/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshat-625/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |

@@ -28,6 +28,7 @@
 | [0733-flood-fill](https://github.com/akshat-625/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/akshat-625/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-check-if-it-is-a-good-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Binary Search
@@ -38,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0887-super-egg-drop](https://github.com/akshat-625/leetcode-solutions/tree/master/0887-super-egg-drop) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/akshat-625/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/akshat-625/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/akshat-625/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshat-625/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
 |  |
@@ -366,6 +369,7 @@
 | [0518-coin-change-ii](https://github.com/akshat-625/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0887-super-egg-drop](https://github.com/akshat-625/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/akshat-625/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshat-625/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie

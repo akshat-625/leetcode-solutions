@@ -30,6 +30,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/akshat-625/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-check-if-it-is-a-good-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/akshat-625/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Binary Search
 |  |
@@ -307,6 +308,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshat-625/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2352-equal-row-and-column-pairs](https://github.com/akshat-625/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/akshat-625/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [2352-equal-row-and-column-pairs](https://github.com/akshat-625/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -420,4 +423,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/akshat-625/leetcode-solutions/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/akshat-625/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->

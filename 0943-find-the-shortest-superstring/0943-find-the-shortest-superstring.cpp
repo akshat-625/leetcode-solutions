@@ -1,62 +1,68 @@
 class Solution {
-    vector<vector<string>> req;
-    string merge(string &a, string &b) // a is followed by b (ab)
-    {
-        int n=a.size(), m=b.size(), len=1, idx=0;
-        while(len<=min(n, m))
-        {
-            if(a.substr(n-len)==b.substr(0, len))
-            {
-                idx=len;
-            }
-            len++;
+    int solve(int n, int f, int remain, vector<vector<int>>& common, vector<int>& dp) {
+        auto idx = f * (1 << n) + remain;
+        if (remain == (1 << f)) {
+            dp[idx] = 0;
+            return 0;
         }
-        string res=b.substr(idx);
-        return res;
-    }
-    string solve(vector<string> &words, int prev, int mask, int n, vector<vector<string>> &dp)
-    {
-        if(dp[prev][mask]!="") return dp[prev][mask];
-        string res="";
-        int minLen=INT_MAX;
-        for(int i=0; i<n; i++)
-        {
-            if(mask&(1<<i)) continue;
-            string temp=req[prev][i]+solve(words, i, mask|(1<<i), n, dp);
-            if(temp.size()<minLen)
-            {
-                minLen=temp.size();
-                res=temp;
+        if (dp[idx] >= 0) return dp[idx];
+        int res = 0;
+        remain ^= (1 << f);
+        for (int i = 0; i < n; ++i) {
+            if (remain & (1 << i)) {
+                res = max(res, common[f][i] + solve(n, i, remain, common, dp));
             }
         }
-        return dp[prev][mask]=res;
+        return dp[idx] = res;
     }
 public:
-    string shortestSuperstring(vector<string>& words) 
-    {
-        int n=words.size();
-        req.resize(n, vector<string> (n, ""));
-        vector<vector<string>> dp(n, vector<string> ((1<<(n+1)), ""));
-        for(int i=0; i<n; i++)
-        {
-            for(int j=0; j<n; j++)
-            {
-                if(i==j) continue;
-                req[i][j]=merge(words[i], words[j]);
+    string shortestSuperstring(vector<string>& words) {
+        int n = words.size();
+        vector<vector<int>> common(n, vector<int>(n));
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < n; ++j) {
+                if (i != j) {
+                    int l = min(words[i].size(), words[j].size());
+                    while (l > 0 && (words[i].substr(words[i].size() - l) != words[j].substr(0, l))) {
+                        --l;
+                    }
+                    common[i][j] = l;
+                }
             }
-        } 
-        string ans="";
-        int minLen=INT_MAX;
-        int mask=0;
-        for(int i=0; i<n; i++)
-        {
-            string temp=words[i]+solve(words, i, mask|(1<<i), n, dp);
-            if(temp.size()<minLen)
-            {
-                minLen=temp.size();
-                ans=temp;
+        }
+
+        int len = (1 << n);
+        vector<int> dp(n * len, -1);
+
+        int most_c = -1;
+        int remain = len - 1;
+        int f_idx = 0;
+        for (int i = 0; i < n; ++i) {
+            auto tmp = solve(n, i, remain, common, dp);
+            // cout << i << " with " << tmp << endl;
+            if (most_c < tmp) {
+                most_c = tmp;
+                f_idx = i;
             }
-        } 
-        return ans;
+        }
+
+        // cout << f_idx << " " << most_c << endl;
+
+        string res = words[f_idx];
+        remain ^= (1 << f_idx);
+        for (int i = 1; i < n; ++i) {
+            for (int c = 0; c < n; ++c) {
+                if ((remain & (1 << c)) && dp[c * len + remain] == (most_c - common[f_idx][c])) {
+                    res += words[c].substr(common[f_idx][c]);
+                    remain ^= (1 << c);
+                    most_c -= common[f_idx][c];
+                    f_idx = c;
+                    // cout << "take " << c << " remain " << remain << "," << most_c << endl;
+                    break;
+                }
+            }
+
+        }
+        return res;
     }
 };

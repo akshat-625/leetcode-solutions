@@ -26,6 +26,7 @@
 | [0518-coin-change-ii](https://github.com/akshat-625/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/akshat-625/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0943-find-the-shortest-superstring](https://github.com/akshat-625/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/akshat-625/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -283,6 +284,7 @@
 | [0257-binary-tree-paths](https://github.com/akshat-625/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/akshat-625/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [0943-find-the-shortest-superstring](https://github.com/akshat-625/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 | [1143-longest-common-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshat-625/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -374,6 +376,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/akshat-625/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0887-super-egg-drop](https://github.com/akshat-625/leetcode-solutions/tree/master/0887-super-egg-drop) |
+| [0943-find-the-shortest-superstring](https://github.com/akshat-625/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 | [1143-longest-common-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/akshat-625/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshat-625/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -427,4 +430,16 @@
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/akshat-625/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/akshat-625/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
+## Bitmask
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/akshat-625/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/akshat-625/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->

@@ -57,6 +57,7 @@
 | [0005-longest-palindromic-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshat-625/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/akshat-625/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/akshat-625/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/akshat-625/leetcode-solutions/tree/master/0202-happy-number) |
@@ -304,6 +305,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/akshat-625/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/akshat-625/leetcode-solutions/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/akshat-625/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/akshat-625/leetcode-solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -327,6 +329,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshat-625/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshat-625/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshat-625/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0141-linked-list-cycle](https://github.com/akshat-625/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/akshat-625/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshat-625/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -447,4 +450,8 @@
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/akshat-625/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akshat-625/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

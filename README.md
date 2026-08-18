@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/akshat-625/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/akshat-625/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/akshat-625/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshat-625/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -144,6 +145,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/akshat-625/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akshat-625/leetcode-solutions/tree/master/0100-same-tree) |
@@ -279,6 +281,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/akshat-625/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/akshat-625/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/akshat-625/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/akshat-625/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akshat-625/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -352,6 +355,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/akshat-625/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/akshat-625/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/akshat-625/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshat-625/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -410,6 +414,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/akshat-625/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/akshat-625/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/akshat-625/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Iterator

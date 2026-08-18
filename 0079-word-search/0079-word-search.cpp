@@ -1,31 +1,44 @@
 class Solution {
-public:
-    bool dfs(int i, int j, vector<vector<char>>& board, vector<vector<int>>&vis, string &word, int idx)
-    {
-        if(idx==word.size()) return true;
-        if(i<0 || j<0 || i>=board.size() || j>=board[0].size() || board[i][j]==1 || board[i][j]!=word[idx]) return false; 
-        if (vis[i][j]==1 || board[i][j]!=word[idx]) return false;
-        vis[i][j] = 1;
-        bool ans = dfs(i,j-1,board,vis,word,idx+1) ||
-                   dfs(i,j+1,board,vis,word,idx+1) ||
-                   dfs(i-1,j,board,vis,word,idx+1) ||
-                   dfs(i+1,j,board,vis,word,idx+1);
-        vis[i][j] = 0;
-        return ans;
+    bool dfs(int r, int c, int i, vector<vector<char>>& board, const string& word){
+        if(i == word.size()) return true;
+        if(r < 0 || c < 0 || r >= board.size() || c >= board[0].size() 
+            || board[r][c] == '#' || board[r][c] != word[i]) return false;
+
+        char temp = board[r][c];
+        board[r][c] = '#';
+
+        if (dfs(r - 1, c, i + 1, board, word) ||
+            dfs(r + 1, c, i + 1, board, word) ||
+            dfs(r, c - 1, i + 1, board, word) ||
+            dfs(r, c + 1, i + 1, board, word)) return true;
+        
+        board[r][c] = temp;
+        
+        return false;
     }
-    bool exist(vector<vector<char>>& board, string word) 
-    {
-        int n = board.size();
-        int m= board[0].size();
-        char initial = word[0]; 
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(board[i][j]==initial)
-                {
-                    vector<vector<int>>vis(n,vector<int>(m,0));
-                    if(dfs(i,j,board,vis,word,0)==true) return true;
+public:
+    bool exist(vector<vector<char>>& board, string word) {
+        int m = board.size();
+        int n = board[0].size();
+
+        unordered_map<char, int> boardletter;
+        unordered_map<char, int> wordletter;
+        for(int r = 0; r < m; r++){
+            for(int c = 0; c < n; c++){
+                boardletter[board[r][c]] += 1;
+            }
+        }
+        for(int idx : word) wordletter[idx]++;
+        for(auto& pair : wordletter) {
+            if(boardletter[pair.first] < pair.second) return false;
+        }
+        if(boardletter[word[0]] > boardletter[word.back()]) {
+            reverse(word.begin(), word.end());
+        }
+        for(int r = 0; r < m; r++){
+            for(int c = 0; c < n; c++){
+                if(board[r][c] == word[0]){
+                    if(dfs(r, c, 0, board, word)) return true;
                 }
             }
         }

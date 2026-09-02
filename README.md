@@ -258,6 +258,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshat-625/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/akshat-625/leetcode-solutions/tree/master/0202-happy-number) |

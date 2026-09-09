@@ -260,6 +260,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshat-625/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshat-625/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -332,6 +333,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshat-625/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshat-625/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshat-625/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshat-625/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -466,4 +468,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/akshat-625/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

@@ -472,4 +472,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshat-625/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshat-625/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

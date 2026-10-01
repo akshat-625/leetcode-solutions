@@ -267,6 +267,7 @@
 | [0002-add-two-numbers](https://github.com/akshat-625/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/akshat-625/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/akshat-625/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshat-625/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/akshat-625/leetcode-solutions/tree/master/0202-happy-number) |
 | [0887-super-egg-drop](https://github.com/akshat-625/leetcode-solutions/tree/master/0887-super-egg-drop) |
@@ -457,6 +458,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/akshat-625/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0943-find-the-shortest-superstring](https://github.com/akshat-625/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 ## Bitmask
 |  |

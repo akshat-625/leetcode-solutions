@@ -1,19 +1,15 @@
 class Solution {
 public:
     int reverse(int x) {
-        string a = to_string(x);
-
-        if (x < 0) {
-            std::reverse(a.begin() + 1, a.end());
-        } else {
-            std::reverse(a.begin(), a.end());
+        long rev=0,num,n=x;
+        while(n!=0){
+            num=n%10;
+            n/=10;
+            rev=rev*10+num;
         }
-
-        long long val = stoll(a);
-
-        if (val > INT_MAX || val < INT_MIN)
+        if(rev > INT_MAX || rev < INT_MIN){
             return 0;
-
-        return (int)val;
+        }
+        return rev;
     }
 };

@@ -36,6 +36,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/akshat-625/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-check-if-it-is-a-good-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+| [1408-string-matching-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/akshat-625/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akshat-625/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Binary Search
@@ -303,6 +304,7 @@
 | [1143-longest-common-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshat-625/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1408-string-matching-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshat-625/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Table
@@ -415,6 +417,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/akshat-625/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [1408-string-matching-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Union-Find
 |  |

@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/akshat-625/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/akshat-625/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/akshat-625/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akshat-625/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshat-625/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshat-625/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -428,6 +429,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akshat-625/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akshat-625/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/akshat-625/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/akshat-625/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -462,6 +464,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/akshat-625/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/akshat-625/leetcode-solutions/tree/master/0078-subsets) |
 | [0943-find-the-shortest-superstring](https://github.com/akshat-625/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 ## Bitmask
 |  |

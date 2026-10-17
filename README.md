@@ -290,6 +290,7 @@
 | [0014-longest-common-prefix](https://github.com/akshat-625/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshat-625/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-625/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/akshat-625/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/akshat-625/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/akshat-625/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/akshat-625/leetcode-solutions/tree/master/0079-word-search) |
@@ -393,6 +394,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshat-625/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/akshat-625/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/akshat-625/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -450,6 +452,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/akshat-625/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshat-625/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Memoization
 |  |
@@ -486,6 +489,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshat-625/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/akshat-625/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Bracket Sequences
 |  |
 | ------- |

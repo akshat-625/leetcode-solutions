@@ -1,26 +1,22 @@
 class Solution {
 public:
     bool isMatch(string s, string p) {
-        vector<bool> dp(p.size() + 1, false);
-        dp[0] = true;
-        for (int j = 0; j < p.size() && p[j] == '*'; ++j) {
-            dp[j + 1] = true;
-        }
-        
-        for (int i = 1; i <= s.size(); ++i) {
-            dp[0] = false;
-            bool neighborLastRow = i == 1;
-            for (int j = 1; j <= p.size(); ++j) {
-                bool currLastRow = dp[j];
-                if (p[j - 1] == '*') {
-                    dp[j] = currLastRow || dp[j - 1];
-                } else {
-                    dp[j] = (s[i - 1] == p[j - 1] || p[j - 1] == '?') && neighborLastRow;
-                }
-                neighborLastRow = currLastRow;
+        int i = 0, j = 0, star = -1, match = 0;
+        int n = s.size(), m = p.size();
+        while (i < n) {
+            if (j < m && (p[j] == '?' || p[j] == s[i])) {
+                i++; j++;
+            } else if (j < m && p[j] == '*') {
+                star = j++;
+                match = i;
+            } else if (star != -1) {
+                j = star + 1;
+                i = ++match;
+            } else {
+                return false;
             }
         }
-
-        return dp[p.size()];
+        while (j < m && p[j] == '*') j++;
+        return j == m;
     }
 };

@@ -25,6 +25,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshat-625/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/akshat-625/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/akshat-625/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akshat-625/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshat-625/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/akshat-625/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshat-625/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0887-super-egg-drop](https://github.com/akshat-625/leetcode-solutions/tree/master/0887-super-egg-drop) |
@@ -358,6 +360,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/akshat-625/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshat-625/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
@@ -494,4 +497,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshat-625/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akshat-625/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
